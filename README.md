@@ -7,12 +7,9 @@ Welcome to my personal portfolio on GitHub! Here you will find information about
 I am a Ph.D candidate at the university of Amsterdam and also working as a senior research assistant in the Information Systems track in the Informatics institute. 
 
 
-
-
-
-
 Thank you for visiting my portfolio!
 
+[I am in the process of building a more informative and user-friendly webiste, please check back soon for a more comprehensive information about what I do. In the meantime, if you have any questions or need information, feel free to contact me]
 
 
 <!--
