@@ -1,11 +1,6 @@
 # Milen G Kebede's Portfolio
 
-Welcome to my personal portfolio on GitHub! Here you will find information about my research thus far, my research interests and projects showcasing my skills in privacy engineering. Feel free to browse through and explore my work.
-
-## About Me
-
-I am a Ph.D candidate at the university of Amsterdam and also working as a senior research assistant in the Information Systems track in the Informatics institute. 
-
+Welcome to my personal portfolio on GitHub! Here you will find information about my research, my research interests and projects showcasing my skills in privacy engineering. Feel free to browse through and explore my work.
 
 Thank you for visiting my portfolio!
 
