@@ -1,6 +1,6 @@
-# Milen G Kebede's Portfolio
+# My Portfolio
 
-Welcome to my personal portfolio on GitHub! Here you will find information about my research, my research interests and projects showcasing my skills in privacy engineering. Feel free to browse through and explore my work.
+Hi!Welcome to my personal portfolio! Here you will find information about my research, my research interests and projects showcasing my skills in privacy engineering. Feel free to browse through and explore my work.
 
 Thank you for visiting my portfolio!
 
